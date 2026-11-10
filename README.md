@@ -1,0 +1,2 @@
+# itarch
+IT Architektúra tárgyhoz 
